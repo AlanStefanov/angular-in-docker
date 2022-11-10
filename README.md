@@ -1,6 +1,6 @@
 **Nginx for Angular compiled**
 --------
-**_Set Dockerfile:__**
+**_Set Dockerfile:_**
 
 In line 3 "COPY", choose the corresponding directory for dist. Ex: ./dist/my-site
 
