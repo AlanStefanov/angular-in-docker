@@ -1,9 +1,8 @@
-**Nginx for Angular compiled**
+**Dockerize project in angular**
 --------
 **_Set Dockerfile:_**
 
-In line 3 "COPY", choose the corresponding directory for dist. Ex: ./dist/my-site
-
+Choose version NODE an Angular CLI
 ---------
 
 **_Configure deploy.sh:_**
